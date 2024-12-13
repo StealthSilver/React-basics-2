@@ -1,6 +1,8 @@
 import "./Product.css"
 
 function Product({title, price, features}){
+    //rendering arrays
+    // const list features.map((feature) => <li>{feature}</li>)
     return(
         <div className="Product">
             <h3>{title}</h3>
@@ -8,6 +10,7 @@ function Product({title, price, features}){
             <p>{features}</p>
             
         </div>
+        
     )
 }
 
