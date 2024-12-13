@@ -5,3 +5,9 @@ Props are the information that you pass to a JSX tag
 
 we can also assign default values in props 
 {title, price =1}
+
+passing arrays to props
+
+Rendering arrays 
+
+instead of individual vlue we can send array of html elements
