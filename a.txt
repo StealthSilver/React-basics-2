@@ -11,3 +11,5 @@ passing arrays to props
 Rendering arrays 
 
 instead of individual vlue we can send array of html elements
+
+Conditionals in React
