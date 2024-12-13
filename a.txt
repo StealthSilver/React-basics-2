@@ -1,0 +1,7 @@
+React props 
+
+Props are the information that you pass to a JSX tag 
+<Product title= "phone" price = "30k>
+
+we can also assign default values in props 
+{title, price =1}
