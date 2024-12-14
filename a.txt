@@ -24,4 +24,11 @@ Adding elements on the basis of some conditions
 
 {price >= 1000 && <p> Discount : 5% </p>}
 
+
 Dynamic component styling
+
+React dev tools -> chrome extention
+
+app -4 -> activity
+
+app-5 -> cards amazon
