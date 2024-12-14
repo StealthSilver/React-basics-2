@@ -5,6 +5,8 @@ function ProductTab(){
     // let options = {a: "high tech", b:"durable", c:"fast"};
     // rendering arrays
     // let options = [<li>"hi-tech"</li>, <li>"hi-tech"</li>,<li>"hi-tech"</li>];
+
+    let styles = {backgroundColor : "blue"}
     return (
         <>
          <Product title = "phone" price={3000} features = {features} 

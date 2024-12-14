@@ -23,3 +23,5 @@ Adding elements on the basis of some conditions
 {price >= 1000 ? <p> Discount : 5% </p> : null}
 
 {price >= 1000 && <p> Discount : 5% </p>}
+
+Dynamic component styling
