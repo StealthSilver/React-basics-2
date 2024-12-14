@@ -13,3 +13,7 @@ Rendering arrays
 instead of individual vlue we can send array of html elements
 
 Conditionals in React
+
+Adding elements on the basis of some conditions 
+
+{price >= 1000 ? <p> Discount : 5% </p> : null}
